@@ -1,2 +1,2 @@
 # srt2kdenlivetitles
-A python script that converts .srt file into a list of .kdenlivetitle files
+A script that generates kdenlive titles clips from a .srt
